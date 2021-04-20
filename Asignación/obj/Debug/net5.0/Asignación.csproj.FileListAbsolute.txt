@@ -1,0 +1,16 @@
+C:\Users\RAFAEL\Documents\Asignación\bin\Debug\net5.0\Asignación.exe
+C:\Users\RAFAEL\Documents\Asignación\bin\Debug\net5.0\Asignación.deps.json
+C:\Users\RAFAEL\Documents\Asignación\bin\Debug\net5.0\Asignación.runtimeconfig.json
+C:\Users\RAFAEL\Documents\Asignación\bin\Debug\net5.0\Asignación.runtimeconfig.dev.json
+C:\Users\RAFAEL\Documents\Asignación\bin\Debug\net5.0\Asignación.dll
+C:\Users\RAFAEL\Documents\Asignación\bin\Debug\net5.0\ref\Asignación.dll
+C:\Users\RAFAEL\Documents\Asignación\bin\Debug\net5.0\Asignación.pdb
+C:\Users\RAFAEL\Documents\Asignación\obj\Debug\net5.0\Asignación.csprojAssemblyReference.cache
+C:\Users\RAFAEL\Documents\Asignación\obj\Debug\net5.0\Asignación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAEL\Documents\Asignación\obj\Debug\net5.0\Asignación.AssemblyInfoInputs.cache
+C:\Users\RAFAEL\Documents\Asignación\obj\Debug\net5.0\Asignación.AssemblyInfo.cs
+C:\Users\RAFAEL\Documents\Asignación\obj\Debug\net5.0\Asignación.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Asignación\obj\Debug\net5.0\Asignación.dll
+C:\Users\RAFAEL\Documents\Asignación\obj\Debug\net5.0\ref\Asignación.dll
+C:\Users\RAFAEL\Documents\Asignación\obj\Debug\net5.0\Asignación.pdb
+C:\Users\RAFAEL\Documents\Asignación\obj\Debug\net5.0\Asignación.genruntimeconfig.cache
